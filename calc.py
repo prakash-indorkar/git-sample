@@ -4,6 +4,6 @@ def add(x,y):
 def subtract(x,y):
 	return int(x-y)
 def multiply(x,y):
-	pass
+	retrun x*y
 def divide(x,y):
 	return x/y
